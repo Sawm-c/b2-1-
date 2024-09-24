@@ -36,6 +36,7 @@ body {
 
 .table th {
   text-align: center;
+  font-size: 17px;
 }
 .img {
   position: absolute;
@@ -49,4 +50,15 @@ button {
   border: 1px;
   box-shadow: 0.5px 0.5px;
   width: 60px;
+}
+.lblue {
+  color: #648ccc;
+}
+.bblue {
+  color: #3a5b95;
+  font-weight: bold;
+}
+.lblue1 {
+  color: #648ccc;
+  font-weight: bold;
 }
